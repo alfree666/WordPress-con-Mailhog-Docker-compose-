@@ -1,3 +1,5 @@
 # wp-mailhog
 Docker-compose WordPress con Mailhog
-Only for test
+
+Ver artículo en URL:  
+https://labarta.es/mailhog-interceptar-correos-trabajando-en-local-con-docker
